@@ -1,5 +1,5 @@
 /*
- * @FilePath: \vue3x_cesium_template\src\biz\Popup\entity\Dialog.js
+ * @FilePath: \vue3_babylonjs_template\src\biz\Popup\entity\Dialog.js
  * @Author: abc-0886kAX-code
  * @Date: 2022-12-05 14:59:26
  * @LastEditors: abc-0886kAX-code

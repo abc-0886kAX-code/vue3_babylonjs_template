@@ -1,9 +1,9 @@
 /*
- * @FilePath: \vue3x_cesium_template\vite.config.js
+ * @FilePath: \vue3_babylonjs_template\vite.config.js
  * @Author: abc-0886kAX-code
  * @Date: 2022-11-21 14:19:59
  * @LastEditors: abc-0886kAX-code
- * @LastEditTime: 2024-01-22 17:37:44
+ * @LastEditTime: 2024-04-12 11:13:53
  * @Description:
  */
 import { defineConfig, splitVendorChunkPlugin, loadEnv } from "vite";
@@ -14,7 +14,6 @@ import viteCompression from "vite-plugin-compression";
 import autoImport from "unplugin-auto-import/vite";
 import vueComponents from "unplugin-vue-components/vite";
 import { ElementPlusResolver } from 'unplugin-vue-components/resolvers'
-import cesium from 'vite-plugin-cesium';
 import Icons from 'unplugin-icons/vite'
 import IconsResolver from 'unplugin-icons/resolver'
 
@@ -104,8 +103,7 @@ export default defineConfig(({ mode }) => {
                 open: true,
                 gzipSize: true,
                 brotliSize: true,
-            }),
-            cesium()
+            })
         ],
         json: {
             namedExports: true,

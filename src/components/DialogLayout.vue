@@ -1,5 +1,5 @@
 <!--
- * @FilePath: \vue3x_cesium_template\src\components\DialogLayout.vue
+ * @FilePath: \vue3_babylonjs_template\src\components\DialogLayout.vue
  * @Author: abc-0886kAX-code
  * @Date: 2023-03-09 16:09:30
  * @LastEditors: abc-0886kAX-code

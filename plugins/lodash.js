@@ -1,5 +1,5 @@
 /*
- * @FilePath: \vue3x_cesium_template\plugins\lodash.js
+ * @FilePath: \vue3_babylonjs_template\plugins\lodash.js
  * @Author: abc-0886kAX-code
  * @Date: 2022-11-21 14:42:17
  * @LastEditors: abc-0886kAX-code

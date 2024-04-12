@@ -1,5 +1,5 @@
 /*
- * @FilePath: \vue3x_cesium_template\src\router\meta.js
+ * @FilePath: \vue3_babylonjs_template\src\router\meta.js
  * @Author: abc-0886kAX-code
  * @Date: 2023-01-30 15:25:13
  * @LastEditors: abc-0886kAX-code

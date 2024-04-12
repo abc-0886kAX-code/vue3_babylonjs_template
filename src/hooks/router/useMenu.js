@@ -1,5 +1,5 @@
 /*
- * @FilePath: \vue3x_cesium_template\src\hooks\router\useMenu.js
+ * @FilePath: \vue3_babylonjs_template\src\hooks\router\useMenu.js
  * @Author: abc-0886kAX-code
  * @Date: 2023-01-30 15:49:15
  * @LastEditors: abc-0886kAX-code
@@ -41,7 +41,7 @@ export function useMenu() {
 export function useMenuTitle() {
     const route = useFirstRoute();
     const title = computed(() => {
-        if (!unref(route).state) return "vue3x_cesium_template";
+        if (!unref(route).state) return "vue3_babylonjs_template";
 
         return unref(route).store.meta.title;
     });

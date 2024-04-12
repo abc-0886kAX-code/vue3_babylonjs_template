@@ -1,5 +1,5 @@
 /*
- * @FilePath: /vue3x_cesium_template/src/internal/shared/is.js
+ * @FilePath: /vue3_babylonjs_template/src/internal/shared/is.js
  * @Author: abc-0886kAX-code
  * @Date: 2022-12-03 18:54:33
  * @LastEditors: abc-0886kAX-code

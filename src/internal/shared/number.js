@@ -1,5 +1,5 @@
 /*
- * @FilePath: \vue3x_cesium_template\src\internal\shared\number.js
+ * @FilePath: \vue3_babylonjs_template\src\internal\shared\number.js
  * @Author: abc-0886kAX-code
  * @Date: 2022-12-22 11:11:05
  * @LastEditors: abc-0886kAX-code

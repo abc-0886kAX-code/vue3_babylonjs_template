@@ -1,5 +1,5 @@
 /*
- * @FilePath: \vue3x_cesium_template\src\biz\Tabs\usecase\useTabs.js
+ * @FilePath: \vue3_babylonjs_template\src\biz\Tabs\usecase\useTabs.js
  * @Author: abc-0886kAX-code
  * @Date: 2023-02-01 13:45:09
  * @LastEditors: abc-0886kAX-code

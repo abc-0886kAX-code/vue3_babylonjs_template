@@ -1,5 +1,5 @@
 <!--
- * @FilePath: \vue3x_cesium_template\src\pages\NotPage\not-page.vue
+ * @FilePath: \vue3_babylonjs_template\src\pages\NotPage\not-page.vue
  * @Author: abc-0886kAX-code
  * @Date: 2022-11-21 15:16:40
  * @LastEditors: abc-0886kAX-code

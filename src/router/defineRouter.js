@@ -1,5 +1,5 @@
 /*
- * @FilePath: \vue3x_cesium_template\src\router\defineRouter.js
+ * @FilePath: \vue3_babylonjs_template\src\router\defineRouter.js
  * @Author: abc-0886kAX-code
  * @Date: 2022-11-03 09:41:56
  * @LastEditors: abc-0886kAX-code

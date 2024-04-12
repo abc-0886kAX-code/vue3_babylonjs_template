@@ -1,5 +1,5 @@
 /*
- * @FilePath: \vue3x_cesium_template\src\permission.js
+ * @FilePath: \vue3_babylonjs_template\src\permission.js
  * @Author: abc-0886kAX-code
  * @Date: 2022-11-11 12:26:15
  * @LastEditors: abc-0886kAX-code
@@ -26,7 +26,7 @@ router.beforeEach(async (to, from, next) => {
     NProgress.start();
 
     // set page title
-    document.title = to.meta.title ?? "vue3x_cesium_template";
+    document.title = to.meta.title ?? "vue3_babylonjs_template";
 
     if (
         noNeedToken.findIndex((item) => {

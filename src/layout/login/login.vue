@@ -1,9 +1,9 @@
 <!--
- * @FilePath: \vue3x_cesium_template\src\layout\login\login.vue
+ * @FilePath: \vue3_babylonjs_template\src\layout\login\login.vue
  * @Author: abc-0886kAX-code
  * @Date: 2023-04-12 10:51:30
  * @LastEditors: abc-0886kAX-code
- * @LastEditTime: 2024-01-08 17:14:05
+ * @LastEditTime: 2024-04-12 11:21:54
  * @Description:https://element-plus-admin.cn/assets/login-box-bg-fec91044.svg
 -->
 <script setup>
@@ -39,7 +39,7 @@ function logon() {
     unref(loginForm).validate(async (valid) => {
         if (!valid) return;
         user.setupToken(uuid());
-        proxy.$router.push({ name: "ExamplePoint" });
+        proxy.$router.push({ name: "layout" });
     });
 }
 </script>
@@ -55,7 +55,7 @@ function logon() {
                     <img src="@/assets/images/login.svg" alt="" />
                 </div>
                 <div class="login-introduce-content-label">欢迎使用本系统</div>
-                <div class="login-introduce-content-desc">基于VUE2.7实现客户端开发平台</div>
+                <div class="login-introduce-content-desc">基于VUE3.X实现客户端开发平台</div>
             </div>
         </div>
         <div class="login-console">

@@ -1,5 +1,5 @@
 /*
- * @FilePath: \vue3x_cesium_template-master\src\store\usePermission.js
+ * @FilePath: \vue3_babylonjs_template-master\src\store\usePermission.js
  * @Author: abc-0886kAX-code
  * @Date: 2023-08-03 16:59:38
  * @LastEditors: abc-0886kAX-code

@@ -1,5 +1,5 @@
 /*
- * @FilePath: \vue3x_cesium_template\src\biz\Tabs\entity\Tabs.js
+ * @FilePath: \vue3_babylonjs_template\src\biz\Tabs\entity\Tabs.js
  * @Author: abc-0886kAX-code
  * @Date: 2023-02-01 13:33:04
  * @LastEditors: abc-0886kAX-code

@@ -1,5 +1,5 @@
 /*
- * @FilePath: \vue3x_cesium_template\src\internal\shared\constant.js
+ * @FilePath: \vue3_babylonjs_template\src\internal\shared\constant.js
  * @Author: abc-0886kAX-code
  * @Date: 2022-12-03 17:56:35
  * @LastEditors: abc-0886kAX-code

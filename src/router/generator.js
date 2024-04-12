@@ -1,5 +1,5 @@
 /*
- * @FilePath: \vue3x_cesium_template-master\src\router\generator.js
+ * @FilePath: \vue3_babylonjs_template-master\src\router\generator.js
  * @Author: abc-0886kAX-code
  * @Date: 2023-08-03 15:26:27
  * @LastEditors: abc-0886kAX-code

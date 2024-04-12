@@ -1,5 +1,5 @@
 <!--
- * @FilePath: \vue3x_cesium_template\src\components\EmptyView.vue
+ * @FilePath: \vue3_babylonjs_template\src\components\EmptyView.vue
  * @Author: abc-0886kAX-code
  * @Date: 2022-11-26 16:03:34
  * @LastEditors: abc-0886kAX-code
@@ -16,11 +16,11 @@ const props = defineProps({
 </script>
 
 <template>
-    <el-empty class="vue3x_cesium_template-empty" :description="desc"></el-empty>
+    <el-empty class="vue3_babylonjs_template-empty" :description="desc"></el-empty>
 </template>
 
 <style scoped lang="scss">
-.vue3x_cesium_template-empty {
+.vue3_babylonjs_template-empty {
     width: 100%;
     height: 100%;
 }

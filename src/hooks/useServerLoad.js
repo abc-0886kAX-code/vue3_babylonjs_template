@@ -1,5 +1,5 @@
 /*
- * @FilePath: \vue3x_cesium_template\src\hooks\useServerLoad.js
+ * @FilePath: \vue3_babylonjs_template\src\hooks\useServerLoad.js
  * @Author: abc-0886kAX-code
  * @Date: 2022-11-22 14:01:06
  * @LastEditors: abc-0886kAX-code

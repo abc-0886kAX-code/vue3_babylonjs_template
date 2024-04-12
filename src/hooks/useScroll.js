@@ -1,5 +1,5 @@
 /*
- * @FilePath: \vue3x_cesium_template\src\hooks\useScroll.js
+ * @FilePath: \vue3_babylonjs_template\src\hooks\useScroll.js
  * @Author: abc-0886kAX-code
  * @Date: 2022-12-08 02:16:55
  * @LastEditors: abc-0886kAX-code

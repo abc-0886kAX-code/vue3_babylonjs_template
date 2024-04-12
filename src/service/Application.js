@@ -1,5 +1,5 @@
 /*
- * @FilePath: \vue3x_cesium_template\src\service\Application.js
+ * @FilePath: \vue3_babylonjs_template\src\service\Application.js
  * @Author: abc-0886kAX-code
  * @Date: 2022-11-24 10:05:30
  * @LastEditors: abc-0886kAX-code
